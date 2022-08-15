@@ -1,0 +1,40 @@
+.headersection {
+  height: 90px;
+  text-decoration-color: blanchedalmond;
+  color: beige;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: black;
+  align-content: center;
+  text-align: center;
+}
+
+.headersection i {
+  font-size: large;
+  font-style: oblique;
+  font-size: xx-large;
+}
+
+.formsection {
+  margin-top: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  align-content: center;
+  text-align: center;
+}
+
+.formsection form {
+  padding-top: 15px;
+  padding: 15px;
+}
+
+form input {
+  margin-top: 15px;
+  width: 50%;
+  height: 30px;
+  background-color: white;
+  align-content: center;
+  text-align: center;
+  font-weight: 600;
+  text-decoration: blue;
+}
